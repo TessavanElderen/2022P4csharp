@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2022P4csharp", "2022P4csharp\2022P4csharp.csproj", "{B2BBE4DA-0DA6-47AA-A57F-539ED0DC6195}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2022P4csharp", "2022P4csharp\2022P4csharp.csproj", "{B2BBE4DA-0DA6-47AA-A57F-539ED0DC6195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{5F38B3CF-E4A9-4AA0-8A4D-4F4D7D78AFBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B2BBE4DA-0DA6-47AA-A57F-539ED0DC6195}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2BBE4DA-0DA6-47AA-A57F-539ED0DC6195}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2BBE4DA-0DA6-47AA-A57F-539ED0DC6195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F38B3CF-E4A9-4AA0-8A4D-4F4D7D78AFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F38B3CF-E4A9-4AA0-8A4D-4F4D7D78AFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F38B3CF-E4A9-4AA0-8A4D-4F4D7D78AFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F38B3CF-E4A9-4AA0-8A4D-4F4D7D78AFBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
