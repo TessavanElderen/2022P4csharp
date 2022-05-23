@@ -29,11 +29,8 @@ namespace _2022P4csharp
 
 
     }
-
     internal class Enemy
     {
 
     }
-
-
 }
